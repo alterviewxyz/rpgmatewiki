@@ -1,23 +1,22 @@
 {
-  "name": "gatsby_storybook_typescript",
+  "name": "rpgmate-wiki",
   "version": "1.0.0",
-  "description": "A gatsby starter with storybook and typescript",
+  "description": "a D&D wiki, in Persian",
   "keywords": [
     "gatsby",
-    "gatsby-starter",
-    "storybook"
+    "rpg"
   ],
-  "homepage": "https://github.com/RobertoMSousa/gatsby-typescript-storybook-starter",
+  "homepage": "https://wiki.rpgmate.club",
   "license": "MIT",
   "author": {
-    "name": "Roberto Sousa",
-    "url": "http://rsousa.dev"
+    "name": "Alterview.xyz",
+    "url": "https://alterview.xyz"
   },
   "files": [],
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RobertoMSousa/gatsby-typescript-storybook-starter"
+    "url": "https://github.com/alterviewxyz/rpgmatewiki"
   },
   "scripts": {
     "develop": "gatsby develop",
